@@ -1,2 +1,2 @@
 # comp130-journal
-Base repository for COMP130 research journal
+In case of missing late deadline
